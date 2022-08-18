@@ -1,0 +1,16 @@
+[
+  {
+    "idUsuario": 565656,
+    "nombre": "Sherry",
+    "apellido": "Cerrato",
+    "email": "sherry.cerrato@gmail.com",
+    "Numero": 123456789
+  },
+  {
+    "idUsuario": 67676,
+    "nombre": "Juan",
+    "apellido": "Gonzales",
+    "email": "juan.gonz@gmail.com",
+    "Numero": 123456789
+  }
+]

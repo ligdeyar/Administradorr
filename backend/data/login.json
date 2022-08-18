@@ -1,0 +1,15 @@
+[
+{
+    "idUsuario": 1,
+    "firstName": "Sherry",
+    "lastName": "Cerrato",
+    "email": "sherry.cerrato@instafood.hn",
+    "password": "123456789"
+},
+{   "idUsuario": 2,
+    "firstName": "Juan",
+    "lastName": "Gonzales",
+    "email": "juan.gonz@instafood.hn",
+    "password": "123456789"
+}
+]
